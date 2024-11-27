@@ -8,5 +8,5 @@ Interactive Visualization: Displays a bounding box around detected faces on the 
 The webcam feed is captured using OpenCV.
 The captured frames are converted to grayscale for better detection accuracy.
 Haar Cascade Classifier scans the image for patterns matching a face.
-If a face is detected, a green rectangle is drawn around it.
+If a face is detected, a blue rectangle is drawn around it.
 <img width="960" alt="2021-11-10 (16) (1)" src="https://github.com/user-attachments/assets/d30ef7d3-da97-4e94-bec9-863e434fed17">
